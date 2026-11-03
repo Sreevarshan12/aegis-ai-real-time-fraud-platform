@@ -133,7 +133,7 @@ GNU Make, Python 3.10+ (only for the host-side smoke test), and Node 22 + `uv` o
 tests locally. No cloud accounts, API keys or paid services are needed.
 
 ```bash
-git clone https://github.com/<you>/aegis-ai-real-time-fraud-platform.git
+git clone https://github.com/Sreevarshan12/aegis-ai-real-time-fraud-platform.git
 cd aegis-ai-real-time-fraud-platform
 make demo
 ```
